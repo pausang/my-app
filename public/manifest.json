@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Clicky Game",
+  "name": "Clicky Game",
+
   "icons": [
     {
       "src": "favicon.ico",
